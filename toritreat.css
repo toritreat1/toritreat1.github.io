@@ -429,6 +429,7 @@ padding: 5%;
 	height: 20px;
 	display: flex;
 	margin: auto;
+	font-size:10px;
 }
 
 #contact .submit:hover{
