@@ -375,7 +375,7 @@ padding: 5%;
 
 @media(max-width:670px){
 	.tori{
-		margin-left: 100px;
+		margin-left: 15px;
     margin-top: 200px;
 		position: absolute;
 		opacity: 0.5;
